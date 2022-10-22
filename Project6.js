@@ -1,2 +1,2 @@
 let name = "Hello World";
-console.log("Hello"\t"World")
+console.log("HelloWorld")
